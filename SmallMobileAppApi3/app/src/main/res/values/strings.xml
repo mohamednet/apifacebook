@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmallMobileAppApi</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">2032358846994706</string>
+    <string name="title_activity_album_list">AlbumListActivity</string>
+    <string name="title_activity_list_photo">ListPhoto</string>
+    <string name="title_activity_photoaf">Photoaf</string>
+</resources>
